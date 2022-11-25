@@ -1,0 +1,136 @@
+.app {
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #000;
+    box-sizing: border-box;
+  }
+  
+  input {
+    margin-top: 10px;
+    width: 100%;
+    height: 30px;
+  }
+  
+  .add {
+    margin-top: 20px;
+    background-color: #000;
+    color: #fff;
+    border: 0;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 15px;
+    font-size: larger;
+  }
+
+  .add1 {
+    margin-left: 0%;
+    margin-bottom: 10px;
+    background-color: #000;
+    color: #fff;
+    border: 0;
+    box-sizing: border-box;
+    width: max-content;
+    padding: 15px;
+    bottom: 0px;
+    position: fixed;
+    display:inline-block;
+    font-size: larger;
+  }
+  .add2 {
+    margin-left: 20%;
+    margin-bottom: 10px;
+    background-color: #000;
+    color: #fff;
+    border: 0;
+    box-sizing: border-box;
+    width: max-content;
+    padding: 15px;
+    bottom: 0px;
+    position: fixed;
+    display:inline-block;
+    font-size: larger;
+  }
+
+  .add3 {
+    margin-left: 36.5%;
+    margin-bottom: 10px;
+    background-color: #000;
+    color: #fff;
+    border: 0;
+    box-sizing: border-box;
+    width: max-content;
+    padding: 15px;
+    bottom: 0px;
+    position: fixed;
+    display:inline-block;
+    font-size: larger;
+  }
+
+  .add4 {
+    margin-left: 60%;
+    margin-bottom: 10px;
+    background-color: #000;
+    color: #fff;
+    border: 0;
+    box-sizing: border-box;
+    width: max-content;
+    padding: 15px;
+    bottom: 0px;
+    position: fixed;
+    display:inline-block;
+    font-size: larger;
+  }
+
+  .add5 {
+    margin-left: 80%;
+    margin-bottom: 10px;
+    background-color: #000;
+    color: #fff;
+    border: 0;
+    box-sizing: border-box;
+    width: max-content;
+    padding: 15px;
+    bottom: 0px;
+    position: fixed;
+    display:inline-block;
+    font-size: larger;
+  }
+
+  
+  .list {
+    padding-top: 20px;
+  }
+  
+  .item {
+    width: 100%;
+    border-bottom: 1px solid #000;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .remove {
+    background-color: rgb(212, 101, 101);
+    margin-top: 20px;
+    color: #fff;
+    border: 0;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 15px;
+  }
+
+  .ConnectionImg {
+    padding: 15px;
+    width: 40px;
+    height: 40px;
+    float: left;
+  }
+
+  .ConnectionText{
+    padding: 20px;
+  }
+
+
+  
